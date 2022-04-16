@@ -4,41 +4,47 @@
     "price": "$165.62",
     "picture": "https://raw.githubusercontent.com/sabbir-dcy/data-individual-provider/main/services/course.png",
     "title": "30 Days photography course",
+    "category": "tutorial",
     "details": ""
   },
   {
     "id": "625b08c6f24b3d39d7ed4699",
-    "price": "$409.35",
+    "price": "$free",
     "picture": "https://raw.githubusercontent.com/sabbir-dcy/data-individual-provider/main/services/street.png",
     "title": "Street photoshoot",
+    "category": "social",
     "details": ""
   },
   {
     "id": "625b08c67a8ffde84d584e52",
-    "price": "$476.33",
+    "price": "$65.33",
     "picture": "https://raw.githubusercontent.com/sabbir-dcy/data-individual-provider/main/services/gear_guide.png",
     "title": "Photography gear guide",
+    "category": "guidance",
     "details": ""
   },
   {
     "id": "625b08c6c44e3401c32ee716",
-    "price": "$479.64",
+    "price": "$137.64",
     "picture": "https://raw.githubusercontent.com/sabbir-dcy/data-individual-provider/main/services/travel.png",
     "title": "Travel photography masterclass",
+    "category": "tutorial",
     "details": ""
   },
   {
     "id": "625b08c621d20d44efe6ecc8",
-    "price": "$137.00",
+    "price": "$180.00",
     "picture": "https://raw.githubusercontent.com/sabbir-dcy/data-individual-provider/main/services/astro.png",
     "title": "Astro photography",
+    "category": "tutorial",
     "details": ""
   },
   {
     "id": "625b08c6eee2a4fa44bdc1fc",
-    "price": "$412.80",
+    "price": "free",
     "picture": "https://raw.githubusercontent.com/sabbir-dcy/data-individual-provider/main/services/festival.png",
     "title": "Fastival photoshoot",
+    "category": "fundraiser",
     "details": ""
   }
 ]
