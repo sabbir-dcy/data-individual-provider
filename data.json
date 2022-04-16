@@ -1,0 +1,51 @@
+[
+  {
+    "id": "625b08c68c01f3845b31e990",
+    "price": "$165.62",
+    "picture": "http://placehold.it/32x32",
+    "title": "30 Days photography course",
+    "details": ""
+  },
+  {
+    "id": "625b08c6f24b3d39d7ed4699",
+    "price": "$409.35",
+    "picture": "http://placehold.it/32x32",
+    "title": "Editing basics 101",
+    "details": ""
+  },
+  {
+    "id": "625b08c67a8ffde84d584e52",
+    "price": "$476.33",
+    "picture": "http://placehold.it/32x32",
+    "title": "Photography gear guide",
+    "details": ""
+  },
+  {
+    "id": "625b08c6c44e3401c32ee716",
+    "price": "$479.64",
+    "picture": "http://placehold.it/32x32",
+    "title": "Travel photography masterclass",
+    "details": ""
+  },
+  {
+    "id": "625b08c621d20d44efe6ecc8",
+    "price": "$137.00",
+    "picture": "http://placehold.it/32x32",
+    "title": "Astro photography",
+    "details": ""
+  },
+  {
+    "id": "625b08c69e6368467dd17ab8",
+    "price": "$290.15",
+    "picture": "http://placehold.it/32x32",
+    "title": "Photo composition and Framing",
+    "details": ""
+  },
+  {
+    "id": "625b08c6eee2a4fa44bdc1fc",
+    "price": "$412.80",
+    "picture": "http://placehold.it/32x32",
+    "title": "Drone photography",
+    "details": ""
+  }
+]
