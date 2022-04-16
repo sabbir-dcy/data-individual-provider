@@ -10,13 +10,13 @@
     "id": "625b08c6f24b3d39d7ed4699",
     "price": "$409.35",
     "picture": "http://placehold.it/32x32",
-    "title": "Editing basics 101",
+    "title": "Street photoshoot",
     "details": ""
   },
   {
     "id": "625b08c67a8ffde84d584e52",
     "price": "$476.33",
-    "picture": "http://placehold.it/32x32",
+    "picture": "https://raw.githubusercontent.com/sabbir-dcy/data-individual-provider/main/services/gear_guide.png",
     "title": "Photography gear guide",
     "details": ""
   },
@@ -35,17 +35,10 @@
     "details": ""
   },
   {
-    "id": "625b08c69e6368467dd17ab8",
-    "price": "$290.15",
-    "picture": "http://placehold.it/32x32",
-    "title": "Photo composition and Framing",
-    "details": ""
-  },
-  {
     "id": "625b08c6eee2a4fa44bdc1fc",
     "price": "$412.80",
     "picture": "http://placehold.it/32x32",
-    "title": "Drone photography",
+    "title": "Fastival photoshoot",
     "details": ""
   }
 ]
